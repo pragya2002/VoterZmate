@@ -46,7 +46,7 @@ The user shall be able to edit his/her details in the “My Profile” section t
 
 - In the future, we can perform KYC verification for the newly registering users.
 - We’ll also be developing an admin app to carry out the conduction of elections and the displaying of results as and when required in a more efficient manner rather than controlling it directly from the Database.
-- Upon adequate initial support from users, iOS and cross-platform versions of the app can be released in addition to a website which shall further contribute to the easy outreach of our service.
+- Upon adequate initial support from users, iOS and cross-platform versions of the app can be released in addition to a website which shall further contribute to the easy outreach of our service. 
 
 ## **USAGE:**
 
